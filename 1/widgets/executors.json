@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1976772279",
+  "buildUrl" : "https://github.com/melmoth-der-wanderer/glowing-happiness-sauce-demo/actions/runs/1976772279",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1/"
+} ]

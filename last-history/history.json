@@ -1,0 +1,302 @@
+{
+  "webkit inventory_sorting.spec.js Sorting Inventory sorting" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5527091c79322429",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/5527091c79322429",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185942140,
+        "stop" : 1647185953825,
+        "duration" : 11685
+      }
+    } ]
+  },
+  "chromium inventory_sorting.spec.js Sorting Inventory sorting" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf8a3fcba8ca73a4",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/cf8a3fcba8ca73a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185902713,
+        "stop" : 1647185906747,
+        "duration" : 4034
+      }
+    } ]
+  },
+  "chromium editing_items_checkout.spec.js Checkout Editing items in the cart before checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56307809f49ba9a6",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/56307809f49ba9a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185900382,
+        "stop" : 1647185902705,
+        "duration" : 2323
+      }
+    } ]
+  },
+  "chromium authentication.spec.js Authentication Invalid authentication" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c29bcda510649eea",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/c29bcda510649eea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185895645,
+        "stop" : 1647185896763,
+        "duration" : 1118
+      }
+    } ]
+  },
+  "webkit editing_items_checkout.spec.js Checkout Editing items in the cart before checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a6e548643c7112d",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/2a6e548643c7112d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185937886,
+        "stop" : 1647185942138,
+        "duration" : 4252
+      }
+    } ]
+  },
+  "chromium checkout_cancellation.spec.js Checkout Cancellation of the checkout process" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eff2e6e43418b197",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/eff2e6e43418b197",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185898300,
+        "stop" : 1647185900377,
+        "duration" : 2077
+      }
+    } ]
+  },
+  "webkit multiple_items_checkout.spec.js Checkout Multiple items checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "deb33bf5778a978d",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/deb33bf5778a978d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185953835,
+        "stop" : 1647185957288,
+        "duration" : 3453
+      }
+    } ]
+  },
+  "firefox multiple_items_checkout.spec.js Checkout Multiple items checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d5dc16d18c1c21",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/8d5dc16d18c1c21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185923645,
+        "stop" : 1647185926279,
+        "duration" : 2634
+      }
+    } ]
+  },
+  "webkit checkout_cancellation.spec.js Checkout Cancellation of the checkout process" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22896afb1a730af5",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/22896afb1a730af5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185934330,
+        "stop" : 1647185937882,
+        "duration" : 3552
+      }
+    } ]
+  },
+  "firefox inventory_sorting.spec.js Sorting Inventory sorting" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd242fa429a0d917",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/fd242fa429a0d917",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185920023,
+        "stop" : 1647185923641,
+        "duration" : 3618
+      }
+    } ]
+  },
+  "firefox editing_items_checkout.spec.js Checkout Editing items in the cart before checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46e331a552c13827",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/46e331a552c13827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185916470,
+        "stop" : 1647185920020,
+        "duration" : 3550
+      }
+    } ]
+  },
+  "chromium multiple_items_checkout.spec.js Checkout Multiple items checkout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f136accc4c8cd1de",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/f136accc4c8cd1de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185906757,
+        "stop" : 1647185908463,
+        "duration" : 1706
+      }
+    } ]
+  },
+  "firefox checkout_cancellation.spec.js Checkout Cancellation of the checkout process" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6df6d4edef49768",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/6df6d4edef49768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185914116,
+        "stop" : 1647185916466,
+        "duration" : 2350
+      }
+    } ]
+  },
+  "webkit authentication.spec.js Authentication Invalid authentication" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c4991818a7fed0c",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/3c4991818a7fed0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185927508,
+        "stop" : 1647185932744,
+        "duration" : 5236
+      }
+    } ]
+  },
+  "firefox authentication.spec.js Authentication Invalid authentication" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2412d06494814525",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/2412d06494814525",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647185909055,
+        "stop" : 1647185912588,
+        "duration" : 3533
+      }
+    } ]
+  }
+}
