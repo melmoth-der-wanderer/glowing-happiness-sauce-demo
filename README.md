@@ -1,5 +1,5 @@
 # Sauce Demo Test Automation
-[![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-yellowgreen)](https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/)
+Test execution results: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-yellowgreen)](https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/)
 ---
 Project: https://www.saucedemo.com/
 ---
@@ -79,9 +79,9 @@ npm run report
 #### Notes:
 
 - All the items in the tests are choosing randomly from the `data/items.json` list;
-- To authenticate user once per all tests run, `global setup` and `storageState` were used;
-- There is a combination of standard assertions and snapshot ones, where it is possible to use it. There is a limitation to use snapshots at item details page, because it is unstable. We need to know the exact time of loading images, without access to the app code we can't do that. Still, visual part is very important to user, so we will need to provide that;
+- To authenticate user once, `global setup` and `storageState` were used;
+- Have been used a combination of standard assertions and snapshot ones (where it is possible to use it). There is a limitation to use snapshot assertion at item details page, because it is unstable. We need to wait for the `onload` event after image loading completion, without access to the app code we can't do that. Still, visual part is very important to user, so we will need to provide that;
 - Structure and selected test scenarios must be discussed via pull-request procedure with a team;
-- Preferably, existent tests should be divided into smaller pieces. Nevertheless, used soft assertions don't stop the test execution in the middle of the run and all the functionalities will be checked;
-- There is no API provided, it opens a lot of possibilities to make tests better (for example: authentication, items list manipulating, etc);
+- Preferably, existent tests should be divided into smaller pieces. Nevertheless, used soft assertions don't stop the test execution in the middle of the run and all the functionalities can be checked;
+- There is no API provided in that demo-app. In reality API opens a lot of possibilities to make tests better (for example: authentication via API, items list manipulating, etc);
 - Mobile emulation is also possible, but wasn't considered in this project.
