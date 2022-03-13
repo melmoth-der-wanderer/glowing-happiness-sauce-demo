@@ -1,0 +1,401 @@
+{
+  "uid" : "72291be324e681e3",
+  "name" : "Inventory sorting",
+  "fullName" : "Inventory sorting",
+  "historyId" : "chromium inventory_sorting.spec.js Sorting Inventory sorting",
+  "time" : {
+    "start" : 1647186429159,
+    "stop" : 1647186432248,
+    "duration" : 3089
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647186429160,
+        "stop" : 1647186429215,
+        "duration" : 55
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647186429168,
+          "stop" : 1647186429215,
+          "duration" : 47
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Select name (A-Z) sortingg",
+      "time" : {
+        "start" : 1647186429215,
+        "stop" : 1647186430605,
+        "duration" : 1390
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "page.goto(https://www.saucedemo.com/inventory.html)",
+        "time" : {
+          "start" : 1647186429221,
+          "stop" : 1647186430001,
+          "duration" : 780
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "locator.selectOption([class=\"product_sort_container\"])",
+        "time" : {
+          "start" : 1647186430002,
+          "stop" : 1647186430052,
+          "duration" : 50
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "page.screenshot",
+        "time" : {
+          "start" : 1647186430053,
+          "stop" : 1647186430351,
+          "duration" : 298
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "expect.toMatchSnapshot",
+        "time" : {
+          "start" : 1647186430355,
+          "stop" : 1647186430605,
+          "duration" : 250
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Select name (Z-A) sorting",
+      "time" : {
+        "start" : 1647186430605,
+        "stop" : 1647186431169,
+        "duration" : 564
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "locator.selectOption([class=\"product_sort_container\"])",
+        "time" : {
+          "start" : 1647186430606,
+          "stop" : 1647186430640,
+          "duration" : 34
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "page.screenshot",
+        "time" : {
+          "start" : 1647186430641,
+          "stop" : 1647186430931,
+          "duration" : 290
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "expect.toMatchSnapshot",
+        "time" : {
+          "start" : 1647186430933,
+          "stop" : 1647186431169,
+          "duration" : 236
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Select price (low to high) sorting",
+      "time" : {
+        "start" : 1647186431169,
+        "stop" : 1647186431689,
+        "duration" : 520
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "locator.selectOption([class=\"product_sort_container\"])",
+        "time" : {
+          "start" : 1647186431176,
+          "stop" : 1647186431212,
+          "duration" : 36
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "page.screenshot",
+        "time" : {
+          "start" : 1647186431213,
+          "stop" : 1647186431498,
+          "duration" : 285
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "expect.toMatchSnapshot",
+        "time" : {
+          "start" : 1647186431500,
+          "stop" : 1647186431689,
+          "duration" : 189
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Select price (high to low) sorting",
+      "time" : {
+        "start" : 1647186431689,
+        "stop" : 1647186432236,
+        "duration" : 547
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "locator.selectOption([class=\"product_sort_container\"])",
+        "time" : {
+          "start" : 1647186431698,
+          "stop" : 1647186431735,
+          "duration" : 37
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "page.screenshot",
+        "time" : {
+          "start" : 1647186431737,
+          "stop" : 1647186432030,
+          "duration" : 293
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "expect.toMatchSnapshot",
+        "time" : {
+          "start" : 1647186432032,
+          "stop" : 1647186432236,
+          "duration" : 204
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647186432237,
+        "stop" : 1647186432248,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647186432239,
+          "stop" : 1647186432248,
+          "duration" : 9
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 21,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "inventory_sorting.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Sorting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "f2eb7f6a1fc99b32",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/2//#testresult/f2eb7f6a1fc99b32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647186338066,
+          "stop" : 1647186341416,
+          "duration" : 3350
+        }
+      }, {
+        "uid" : "cf8a3fcba8ca73a4",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/glowing-happiness-sauce-demo/1//#testresult/cf8a3fcba8ca73a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647185902713,
+          "stop" : 1647185906747,
+          "duration" : 4034
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "72291be324e681e3.json",
+  "parameterValues" : [ ]
+}
