@@ -1,0 +1,151 @@
+[ {
+  "uid" : "2f5393e7b80e6af1",
+  "name" : "Editing items in the cart before checkout",
+  "time" : {
+    "start" : 1647499370113,
+    "stop" : 1647499372572,
+    "duration" : 2459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4937386088527aa",
+  "name" : "Cancellation of the checkout process",
+  "time" : {
+    "start" : 1647499368356,
+    "stop" : 1647499370110,
+    "duration" : 1754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58b2978824ee50fe",
+  "name" : "Multiple items checkout",
+  "time" : {
+    "start" : 1647499375442,
+    "stop" : 1647499377309,
+    "duration" : 1867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3639f26cea0eca5e",
+  "name" : "Cancellation of the checkout process",
+  "time" : {
+    "start" : 1647499383563,
+    "stop" : 1647499386421,
+    "duration" : 2858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d91fe5ce778b4b56",
+  "name" : "Cancellation of the checkout process",
+  "time" : {
+    "start" : 1647499357033,
+    "stop" : 1647499358490,
+    "duration" : 1457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c59201b9f2688ed",
+  "name" : "Invalid authentication",
+  "time" : {
+    "start" : 1647499355348,
+    "stop" : 1647499356105,
+    "duration" : 757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4386d0c5bb212fa",
+  "name" : "Inventory sorting",
+  "time" : {
+    "start" : 1647499372574,
+    "stop" : 1647499375436,
+    "duration" : 2862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5db1536c8213cd8c",
+  "name" : "Multiple items checkout",
+  "time" : {
+    "start" : 1647499363345,
+    "stop" : 1647499364617,
+    "duration" : 1272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c063b39619a5956",
+  "name" : "Inventory sorting",
+  "time" : {
+    "start" : 1647499360195,
+    "stop" : 1647499363337,
+    "duration" : 3142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3437f6a77470f4ac",
+  "name" : "Inventory sorting",
+  "time" : {
+    "start" : 1647499389648,
+    "stop" : 1647499398580,
+    "duration" : 8932
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd2c8b0667a310f",
+  "name" : "Multiple items checkout",
+  "time" : {
+    "start" : 1647499398587,
+    "stop" : 1647499400911,
+    "duration" : 2324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff0d1c4094f7d1fe",
+  "name" : "Invalid authentication",
+  "time" : {
+    "start" : 1647499378280,
+    "stop" : 1647499382631,
+    "duration" : 4351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1bfd13fa252819",
+  "name" : "Editing items in the cart before checkout",
+  "time" : {
+    "start" : 1647499386425,
+    "stop" : 1647499389646,
+    "duration" : 3221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5233087c9c610ee6",
+  "name" : "Editing items in the cart before checkout",
+  "time" : {
+    "start" : 1647499358493,
+    "stop" : 1647499360192,
+    "duration" : 1699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "988a60658f0cbfaf",
+  "name" : "Invalid authentication",
+  "time" : {
+    "start" : 1647499365016,
+    "stop" : 1647499367418,
+    "duration" : 2402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
