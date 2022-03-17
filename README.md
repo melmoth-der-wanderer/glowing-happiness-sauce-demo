@@ -59,6 +59,11 @@ Use the package manager `npm` to install dependencies:
 npm install
 ```
 
+Install the browsers
+```
+npx playwright install
+```
+
 Run the UI automation tests in parallel (Chrome, Firefox, Safari):
 ```
 npm test
